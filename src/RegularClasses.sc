@@ -1,6 +1,6 @@
 object RegularClasses {
 
-  val p = new Person()                            //> p  : Person = Person@f9997e
+  val p = new Person()                            //> p  : Person = Person@3d66aa18
   p.first = "Christian"                           //> First name set to Christian
   p.last = "Sadilek"                              //> Last name set to Sadilek.
                                                   //|     Full name is "Christian Sadilek".

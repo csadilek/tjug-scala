@@ -1,5 +1,6 @@
 object CaseClasses {
   //Step 0:
+  
   val name: String = "John"                       //> name  : String = John
   //name = "Fred" //can't do it
   var age: Int = 20                               //> age  : Int = 20

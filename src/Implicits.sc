@@ -2,8 +2,6 @@ import org.apache.commons.lang3.StringUtils
 import RichString._
 
 object Implicits {
-  //  implicit def str2Rich(str: String) = new RichString(str)
-
   val name = "John Smith"                         //> name  : String = John Smith
 
   //Step 1: Manual conversion from String to RichString
