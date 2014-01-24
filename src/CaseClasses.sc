@@ -33,7 +33,7 @@ object CaseClasses {
     }
   }                                               //> printSuperPower: (p: Person)Unit
 
-  val s = Student("John", "Smith", 23);           //> s  : Student = Student(John,Smith,23)
+  val s = Student("John", "Smith", 23)            //> s  : Student = Student(John,Smith,23)
   val s2 = SuperHero("Tony", "Stark", 30, SuperPower("superhuman reflexes", 5))
                                                   //> s2  : SuperHero = SuperHero(Tony,Stark,30,SuperPower(superhuman reflexes,5)
                                                   //| )

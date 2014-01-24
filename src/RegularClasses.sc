@@ -7,12 +7,12 @@ object RegularClasses {
 }
 
 class Person {
-  private var _first: String = "";
-  private var _last: String = "";
+  private var _first: String = ""
+  private var _last: String = ""
  
   //Step 1: Show simple type inference initializing this field with 0
-  //val age = 0;
-  private var age: Int = 0;
+  //val age = 0
+  private var age: Int = 0
   
   //Step 2: Introduce Getter/Setter => uniform access
   def first = _first
